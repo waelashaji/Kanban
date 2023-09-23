@@ -11,7 +11,7 @@
         position: relative;
         .logo {
             max-width: 548px;
-            background: transparent url(/assets/Logo.jpg) 0% 0% no-repeat padding-box;
+            background: transparent url(../assets/Logo.jpg) 0% 0% no-repeat padding-box;
             height: 333px;
             width: 100%;
         }
@@ -81,7 +81,7 @@ label {
 .illust-man {
     width: 545px;
     height: 435px;
-    background: transparent url(/assets/Man.svg) 0% 0% no-repeat padding-box;
+    background: transparent url(../assets/Man.svg) 0% 0% no-repeat padding-box;
     position: absolute;
     bottom: 0;
     right: 0;
@@ -90,7 +90,7 @@ label {
 .illust-woman {
     width: 201px;
     height: 402px;
-    background: transparent url(/assets/Woman.svg) 0% 0% no-repeat padding-box;
+    background: transparent url(../assets/Woman.svg) 0% 0% no-repeat padding-box;
     position: absolute;
     bottom: 0;
     left: 0;
