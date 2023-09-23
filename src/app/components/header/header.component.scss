@@ -25,7 +25,7 @@
 .logo {
   width: 94px;
   height: 57px;
-  background: transparent url(../assets/Logo.png) 0% 0% no-repeat padding-box;
+  background: transparent url(assets/Logo.png) 0% 0% no-repeat padding-box;
   opacity: 1;
 }
 
@@ -43,7 +43,7 @@
   .search-icon {
     width: 24px;
     height: 24px;
-    background: transparent url(../assets/Search.png) 0% 0% no-repeat padding-box;
+    background: transparent url(assets/Search.png) 0% 0% no-repeat padding-box;
     position: absolute;
     right: 0;
     top: 50%;
@@ -71,7 +71,7 @@
   width: 24px;
   height: 24px;
   margin-left: 22px;
-  background: transparent url(../assets/Circle.png) 0% 0% no-repeat padding-box;
+  background: transparent url(assets/Circle.png) 0% 0% no-repeat padding-box;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -98,7 +98,7 @@
 
 
   .add {
-    background: transparent url(../assets/Add.svg) 0% 0% no-repeat padding-box;
+    background: transparent url(assets/Add.svg) 0% 0% no-repeat padding-box;
     width: 10px;
     height: 10px;
   }
@@ -109,7 +109,7 @@
   width: 42px;
   height: 42px;
   border-radius: 50px;
-  background: transparent url(../assets/Bitmap.png) 0% 0% no-repeat padding-box;
+  background: transparent url(assets/Bitmap.png) 0% 0% no-repeat padding-box;
   position: relative;
   cursor: pointer;
 
@@ -131,7 +131,7 @@
     .profile {
       width: 69px;
       height: 69px;
-      background: url(../assets/Bitmap@2x.png) center center/cover;
+      background: url(assets/Bitmap@2x.png) center center/cover;
     }
 
     .flex-wrapper {
@@ -150,7 +150,7 @@
         .logout {
           width: 20px;
           height: 17px;
-          background: transparent url(../assets/log-out.svg) 0% 0% no-repeat padding-box;
+          background: transparent url(assets/log-out.svg) 0% 0% no-repeat padding-box;
           opacity: 1;
         }
       }
